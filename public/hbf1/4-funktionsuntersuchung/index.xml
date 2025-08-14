@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funktionsuntersuchung on Lehrzeile</title>
+    <link>/hbf1/4-funktionsuntersuchung/</link>
+    <description>Recent content in Funktionsuntersuchung on Lehrzeile</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <copyright>Copyright (c) 2025 lehrzeile.org</copyright>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/hbf1/4-funktionsuntersuchung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To: Erklärung der Vorgehensweise</title>
+      <link>/hbf1/4-funktionsuntersuchung/how-to-erkl%C3%A4rung-der-vorgehensweise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/hbf1/4-funktionsuntersuchung/how-to-erkl%C3%A4rung-der-vorgehensweise/</guid>
+      <description>&lt;p&gt;Hier lernst du Schritt für Schritt, wie du eine Funktion vollständig untersuchst.&#xA;Wozu das gut ist, erfährtst du danach in einem &lt;a href=&#34;/hbf1/4-funktionsuntersuchung/anwendungsbeispiel/&#34;&gt;Anwendungsbeispiel&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anwendungsbeispiel</title>
+      <link>/hbf1/4-funktionsuntersuchung/anwendungsbeispiel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/hbf1/4-funktionsuntersuchung/anwendungsbeispiel/</guid>
+      <description>&lt;p&gt;to be continued&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

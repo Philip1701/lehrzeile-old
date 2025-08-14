@@ -1,5 +1,5 @@
 title = "Lehrzeile"
-baseurl = "http://philip1701.github.io/lehrzeile/"
+baseurl = "https://philip1701.github.io/lehrzeile/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
