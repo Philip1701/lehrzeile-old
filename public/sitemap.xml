@@ -179,17 +179,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/tested/beispielseite/beispielseite/</loc>
-    <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>/docs/eigenes/hilfreiche-links/</loc>
-    <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/tested/hilfreiche-links/hilfreiche-links/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -199,17 +189,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/tested/hugo/</loc>
-    <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>/docs/eigenes/markdown-example/</loc>
-    <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/tested/markdown-example/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -264,22 +244,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/tested/beispielseite/</loc>
-    <lastmod>2025-03-07T10:12:03+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>/hbf1/</loc>
-    <lastmod>2025-03-07T10:12:03+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/tested/hilfreiche-links/</loc>
-    <lastmod>2025-03-07T10:12:03+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/tested/</loc>
     <lastmod>2025-03-07T10:12:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
