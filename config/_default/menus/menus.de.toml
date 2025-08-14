@@ -43,11 +43,6 @@
   url = "/HBF1/0-Organisatorisches/Themenübersicht"
   weight = 20
 
-[[main]]
-  name = "Tested"
-  url = "/tested/Beispielseite/beispielseite"
-  weight = 50
-
 # [[sidebar_tested]]
 #   name = "Tested"
 #   pageRef = "/tested/"

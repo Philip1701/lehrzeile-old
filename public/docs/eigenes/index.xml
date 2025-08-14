@@ -2,60 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eigenes on Lehrzeile</title>
-    <link>http://localhost:1313/docs/eigenes/</link>
+    <link>/docs/eigenes/</link>
     <description>Recent content in Eigenes on Lehrzeile</description>
     <generator>Hugo</generator>
     <language>de</language>
     <copyright>Copyright (c) 2025 lehrzeile.org</copyright>
     <lastBuildDate>Thu, 06 Mar 2025 22:10:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/eigenes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/docs/eigenes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beispiel 2</title>
+      <link>/docs/eigenes/beispiel-2/</link>
+      <pubDate>Thu, 06 Mar 2025 22:10:00 +0200</pubDate>
+      <guid>/docs/eigenes/beispiel-2/</guid>
+      <description>&lt;h2 id=&#34;typography&#34;&gt;Typography&lt;/h2&gt;&#xA;&lt;p&gt;Paragraphs are separated by a blank line.&lt;/p&gt;&#xA;&lt;p&gt;2nd paragraph. &lt;em&gt;Italic&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, and &lt;code&gt;monospace&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I need to highlight these &lt;mark&gt;very important words&lt;/mark&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Beispielseite</title>
-      <link>http://localhost:1313/docs/eigenes/beispielseite/</link>
+      <link>/docs/eigenes/beispielseite/</link>
       <pubDate>Thu, 06 Mar 2025 22:10:00 +0200</pubDate>
-      <guid>http://localhost:1313/docs/eigenes/beispielseite/</guid>
+      <guid>/docs/eigenes/beispielseite/</guid>
       <description>&lt;h2 id=&#34;typography&#34;&gt;Typography&lt;/h2&gt;&#xA;&lt;p&gt;Paragraphs are separated by a blank line.&lt;/p&gt;&#xA;&lt;p&gt;2nd paragraph. &lt;em&gt;Italic&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, and &lt;code&gt;monospace&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I need to highlight these &lt;mark&gt;very important words&lt;/mark&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hilfreiche Links</title>
-      <link>http://localhost:1313/docs/eigenes/hilfreiche-links/</link>
+      <link>/docs/eigenes/hilfreiche-links/</link>
       <pubDate>Thu, 06 Mar 2025 22:10:00 +0200</pubDate>
-      <guid>http://localhost:1313/docs/eigenes/hilfreiche-links/</guid>
+      <guid>/docs/eigenes/hilfreiche-links/</guid>
       <description>&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://getdoks.org/docs/reference/markdown-extended-syntax/&#34;&gt;https://getdoks.org/docs/reference/markdown-extended-syntax/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://getdoks.org/docs/basics/shortcodes/&#34;&gt;https://getdoks.org/docs/basics/shortcodes/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;design--fonts&#34;&gt;Design &amp;raquo; Fonts&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://misswood.eu/de/blogs/miss-wood-blog/ideas-para-regalar-un-viaje?srsltid=AfmBOorYYXLsv0X9gT5LEwsPkDVWocCQj0WGAHMtQjpr1F7HBeQiRKMD&#34;&gt;Beispiel&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;icons&#34;&gt;Icons&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://tabler.io/icons/&#34;&gt;https://tabler.io/icons/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;markdown-hilfebereich-obsidian&#34;&gt;Markdown Hilfebereich Obsidian&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://help.obsidian.md/callouts&#34;&gt;https://help.obsidian.md/callouts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;navigation-anpassen&#34;&gt;Navigation anpassen&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://getdoks.org/docs/basics/navigation/&#34;&gt;https://getdoks.org/docs/basics/navigation/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Hugo Framework</title>
-      <link>http://localhost:1313/docs/eigenes/hugo-framework/</link>
+      <link>/docs/eigenes/hugo-framework/</link>
       <pubDate>Thu, 06 Mar 2025 22:10:00 +0200</pubDate>
-      <guid>http://localhost:1313/docs/eigenes/hugo-framework/</guid>
+      <guid>/docs/eigenes/hugo-framework/</guid>
       <description>Zusammenfassung</description>
     </item>
     <item>
       <title>Markdown Example</title>
-      <link>http://localhost:1313/docs/eigenes/markdown-example/</link>
+      <link>/docs/eigenes/markdown-example/</link>
       <pubDate>Thu, 06 Mar 2025 22:10:00 +0200</pubDate>
-      <guid>http://localhost:1313/docs/eigenes/markdown-example/</guid>
+      <guid>/docs/eigenes/markdown-example/</guid>
       <description>Zusammenfassung</description>
     </item>
     <item>
       <title>Unterabschnitt 2</title>
-      <link>http://localhost:1313/docs/eigenes/unterabschnitt-2/</link>
+      <link>/docs/eigenes/unterabschnitt-2/</link>
       <pubDate>Thu, 06 Mar 2025 22:10:00 +0200</pubDate>
-      <guid>http://localhost:1313/docs/eigenes/unterabschnitt-2/</guid>
+      <guid>/docs/eigenes/unterabschnitt-2/</guid>
       <description>&lt;p&gt;Reference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unterabschnitt 3</title>
-      <link>http://localhost:1313/docs/eigenes/unterabschnitt-3/</link>
+      <link>/docs/eigenes/unterabschnitt-3/</link>
       <pubDate>Thu, 06 Mar 2025 22:10:00 +0200</pubDate>
-      <guid>http://localhost:1313/docs/eigenes/unterabschnitt-3/</guid>
+      <guid>/docs/eigenes/unterabschnitt-3/</guid>
       <description>&lt;p&gt;Reference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unterabschnitt 4</title>
-      <link>http://localhost:1313/docs/eigenes/unterabschnitt-4/</link>
+      <link>/docs/eigenes/unterabschnitt-4/</link>
       <pubDate>Thu, 06 Mar 2025 22:10:00 +0200</pubDate>
-      <guid>http://localhost:1313/docs/eigenes/unterabschnitt-4/</guid>
+      <guid>/docs/eigenes/unterabschnitt-4/</guid>
       <description>&lt;p&gt;Reference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.&lt;/p&gt;</description>
     </item>
   </channel>

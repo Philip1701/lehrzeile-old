@@ -2,318 +2,323 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hbf1/resources/</loc>
+    <loc>/hbf1/resources/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/dritter-test/</loc>
+    <loc>/blog/dritter-test/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/hugo-framework/</loc>
+    <loc>/blog/hugo-framework/</loc>
     <lastmod>2025-03-06T22:21:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/zweiter-test/</loc>
+    <loc>/blog/zweiter-test/</loc>
     <lastmod>2025-03-06T16:27:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/erster-test/</loc>
+    <loc>/blog/erster-test/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/example-post/</loc>
+    <loc>/blog/example-post/</loc>
     <lastmod>2023-09-07T16:27:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2023-09-07T16:21:44+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/0-organisatorisches/</loc>
+    <loc>/hbf1/0-organisatorisches/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/1-grundlagen-training/</loc>
+    <loc>/hbf1/1-grundlagen-training/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/1-grundlagen-training/bruchrechnung/</loc>
+    <loc>/hbf1/1-grundlagen-training/bruchrechnung/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/1-grundlagen-training/terme-und-gleichungen/</loc>
+    <loc>/hbf1/1-grundlagen-training/terme-und-gleichungen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/1-grundlagen-training/zuordnungen-und-funktionen/</loc>
+    <loc>/hbf1/1-grundlagen-training/zuordnungen-und-funktionen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/1-grundlagen-training/lineare-funktionen/</loc>
+    <loc>/hbf1/1-grundlagen-training/lineare-funktionen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/1-grundlagen-training/quadratische-funktionen/</loc>
+    <loc>/hbf1/1-grundlagen-training/quadratische-funktionen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/1-grundlagen-training/binomische-formeln/</loc>
+    <loc>/hbf1/1-grundlagen-training/binomische-formeln/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/1-grundlagen-training/lineare-gleichungssysteme/</loc>
+    <loc>/hbf1/1-grundlagen-training/lineare-gleichungssysteme/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/2-nullstellen-ganzrationaler-funktionen-h%C3%B6herer-ordnung-bestimmen/</loc>
+    <loc>/hbf1/2-nullstellen-ganzrationaler-funktionen-h%C3%B6herer-ordnung-bestimmen/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/2-nullstellen-ganzrationaler-funktionen-h%C3%B6herer-ordnung-bestimmen/nullstellen-von-kubischen-funktionen/</loc>
+    <loc>/hbf1/2-nullstellen-ganzrationaler-funktionen-h%C3%B6herer-ordnung-bestimmen/nullstellen-von-kubischen-funktionen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/2-nullstellen-ganzrationaler-funktionen-h%C3%B6herer-ordnung-bestimmen/polynomdivision/</loc>
+    <loc>/hbf1/2-nullstellen-ganzrationaler-funktionen-h%C3%B6herer-ordnung-bestimmen/polynomdivision/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/2-nullstellen-ganzrationaler-funktionen-h%C3%B6herer-ordnung-bestimmen/horner-schema/</loc>
+    <loc>/hbf1/2-nullstellen-ganzrationaler-funktionen-h%C3%B6herer-ordnung-bestimmen/horner-schema/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/2-nullstellen-ganzrationaler-funktionen-h%C3%B6herer-ordnung-bestimmen/substitution/</loc>
+    <loc>/hbf1/2-nullstellen-ganzrationaler-funktionen-h%C3%B6herer-ordnung-bestimmen/substitution/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/2-nullstellen-ganzrationaler-funktionen-h%C3%B6herer-ordnung-bestimmen/nullstellen-von-funktionen-ho%CC%88heren-grades/</loc>
+    <loc>/hbf1/2-nullstellen-ganzrationaler-funktionen-h%C3%B6herer-ordnung-bestimmen/nullstellen-von-funktionen-ho%CC%88heren-grades/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/3-grundlagen-der-differentialrechnung/</loc>
+    <loc>/hbf1/3-grundlagen-der-differentialrechnung/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/3-grundlagen-der-differentialrechnung/lokale-%C3%A4nderungsrate/</loc>
+    <loc>/hbf1/3-grundlagen-der-differentialrechnung/lokale-%C3%A4nderungsrate/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/3-grundlagen-der-differentialrechnung/differentialquotient-und-ableitung/</loc>
+    <loc>/hbf1/3-grundlagen-der-differentialrechnung/differentialquotient-und-ableitung/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/3-grundlagen-der-differentialrechnung/erste-ableitungsregeln/</loc>
+    <loc>/hbf1/3-grundlagen-der-differentialrechnung/erste-ableitungsregeln/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/4-funktionsuntersuchung/</loc>
+    <loc>/hbf1/4-funktionsuntersuchung/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/4-funktionsuntersuchung/how-to-erkl%C3%A4rung-der-vorgehensweise/</loc>
+    <loc>/hbf1/4-funktionsuntersuchung/how-to-erkl%C3%A4rung-der-vorgehensweise/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/4-funktionsuntersuchung/anwendungsbeispiel/</loc>
+    <loc>/hbf1/4-funktionsuntersuchung/anwendungsbeispiel/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/5-steckbriefaufgaben/</loc>
+    <loc>/hbf1/5-steckbriefaufgaben/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/5-steckbriefaufgaben/wiederholung-lineare-gleichungssysteme/</loc>
+    <loc>/hbf1/5-steckbriefaufgaben/wiederholung-lineare-gleichungssysteme/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/5-steckbriefaufgaben/gau%C3%9F-verfahren/</loc>
+    <loc>/hbf1/5-steckbriefaufgaben/gau%C3%9F-verfahren/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/5-steckbriefaufgaben/lo%CC%88sen-von-steckbriefaufgaben/</loc>
+    <loc>/hbf1/5-steckbriefaufgaben/lo%CC%88sen-von-steckbriefaufgaben/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/guides/</loc>
+    <loc>/docs/guides/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/guides/example-guide/</loc>
+    <loc>/docs/guides/example-guide/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/0-organisatorisches/themen%C3%BCbersicht/</loc>
+    <loc>/hbf1/0-organisatorisches/themen%C3%BCbersicht/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/0-organisatorisches/bettermarks/</loc>
+    <loc>/hbf1/0-organisatorisches/bettermarks/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/eigenes/</loc>
+    <loc>/docs/eigenes/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/eigenes/beispielseite/</loc>
+    <loc>/docs/eigenes/beispiel-2/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tested/beispielseite/beispielseite/</loc>
+    <loc>/docs/eigenes/beispielseite/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/eigenes/hilfreiche-links/</loc>
+    <loc>/tested/beispielseite/beispielseite/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tested/hilfreiche-links/hilfreiche-links/</loc>
+    <loc>/docs/eigenes/hilfreiche-links/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/eigenes/hugo-framework/</loc>
+    <loc>/tested/hilfreiche-links/hilfreiche-links/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tested/hugo/</loc>
+    <loc>/docs/eigenes/hugo-framework/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/eigenes/markdown-example/</loc>
+    <loc>/tested/hugo/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tested/markdown-example/</loc>
+    <loc>/docs/eigenes/markdown-example/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/eigenes/unterabschnitt/</loc>
+    <loc>/tested/markdown-example/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/eigenes/unterabschnitt/unterabschnitt-1.1/</loc>
+    <loc>/docs/eigenes/unterabschnitt/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/eigenes/unterabschnitt/unterabschnitt-1.2/</loc>
+    <loc>/docs/eigenes/unterabschnitt/unterabschnitt-1.1/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/eigenes/unterabschnitt-2/</loc>
+    <loc>/docs/eigenes/unterabschnitt/unterabschnitt-1.2/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/eigenes/unterabschnitt-3/</loc>
+    <loc>/docs/eigenes/unterabschnitt-2/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/eigenes/unterabschnitt-4/</loc>
+    <loc>/docs/eigenes/unterabschnitt-3/</loc>
     <lastmod>2025-03-06T22:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/reference/</loc>
+    <loc>/docs/eigenes/unterabschnitt-4/</loc>
+    <lastmod>2025-03-06T22:10:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/docs/reference/</loc>
     <lastmod>2023-09-07T16:12:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/reference/example-reference/</loc>
+    <loc>/docs/reference/example-reference/</loc>
     <lastmod>2023-09-07T16:13:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/resources/</loc>
+    <loc>/docs/resources/</loc>
     <lastmod>2024-02-27T09:30:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>/docs/</loc>
     <lastmod>2023-09-07T16:12:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tested/beispielseite/</loc>
+    <loc>/tested/beispielseite/</loc>
     <lastmod>2025-03-07T10:12:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hbf1/</loc>
+    <loc>/hbf1/</loc>
     <lastmod>2025-03-07T10:12:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tested/hilfreiche-links/</loc>
+    <loc>/tested/hilfreiche-links/</loc>
     <lastmod>2025-03-07T10:12:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tested/</loc>
+    <loc>/tested/</loc>
     <lastmod>2025-03-07T10:12:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/story/</loc>
+    <loc>/tags/story/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/test/</loc>
+    <loc>/tags/test/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/impressum/</loc>
+    <loc>/impressum/</loc>
     <lastmod>2023-09-07T17:19:07+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
+    <loc>/privacy/</loc>
     <lastmod>2023-09-07T17:19:07+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2023-09-07T16:33:54+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/contributors/</loc>
+    <loc>/contributors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

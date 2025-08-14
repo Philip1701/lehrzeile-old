@@ -2,19 +2,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/hbf1/3-grundlagen-der-differentialrechnung/lokale-%C3%A4nderungsrate/</loc>
+      <loc>/hbf1/3-grundlagen-der-differentialrechnung/lokale-%C3%A4nderungsrate/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/hbf1/3-grundlagen-der-differentialrechnung/differentialquotient-und-ableitung/</loc>
+      <loc>/hbf1/3-grundlagen-der-differentialrechnung/differentialquotient-und-ableitung/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/hbf1/3-grundlagen-der-differentialrechnung/erste-ableitungsregeln/</loc>
+      <loc>/hbf1/3-grundlagen-der-differentialrechnung/erste-ableitungsregeln/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
