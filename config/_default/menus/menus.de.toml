@@ -29,19 +29,14 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-  name = "Docs"
-  url = "/docs/guides/example-guide/"
-  weight = 10
+  name = "HBF1"
+  url = "/HBF1/0-Organisatorisches/Themenübersicht"
+  weight = 20
 
 [[main]]
   name = "Blog"
   url = "/blog/"
   weight = 30
-
-[[main]]
-  name = "HBF1"
-  url = "/HBF1/0-Organisatorisches/Themenübersicht"
-  weight = 20
 
 # [[sidebar_tested]]
 #   name = "Tested"
