@@ -4,7 +4,7 @@ description = "Herzlich Willkommen auf der Projektseite!"
 images = ["cover.png"]
 
 # mainSections
-mainSections = ["docs","hbf1","tested"]
+mainSections = ["docs","hbf1"]
 
 [social]
   twitter = "getdoks"
