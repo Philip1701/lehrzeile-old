@@ -9,17 +9,18 @@ draft: false
 
 ## Angaben gemäß § 5 TMG
 
-Philip Müller
-Clemensstraße 12-14
+Philip Müller<br />
+Clemensstraße 12-14<br />
 56068 Koblenz
 
 ### Kontakt
+
 E-Mail: p.mueller@bbs-lahnstein.de
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-Philip Müller
-Clemensstraße 12-14
+Philip Müller<br />
+Clemensstraße 12-14<br />
 56068 Koblenz
 
 ## Haftung für Inhalte
