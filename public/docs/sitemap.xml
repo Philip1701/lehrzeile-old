@@ -9,13 +9,6 @@
     </url>
     
     <url>
-      <loc>/docs/eigenes/</loc>
-      <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
       <loc>/docs/reference/</loc>
       <lastmod>2023-09-07T16:12:37+02:00</lastmod>
       <changefreq>monthly</changefreq>
@@ -31,60 +24,6 @@
     <url>
         <loc>/docs/guides/example-guide/</loc>
         <lastmod>2023-09-07T16:04:48+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>/docs/eigenes/beispiel-2/</loc>
-        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>/docs/eigenes/beispielseite/</loc>
-        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>/docs/eigenes/hilfreiche-links/</loc>
-        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>/docs/eigenes/hugo-framework/</loc>
-        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>/docs/eigenes/markdown-example/</loc>
-        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>/docs/eigenes/unterabschnitt/</loc>
-        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>/docs/eigenes/unterabschnitt-2/</loc>
-        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>/docs/eigenes/unterabschnitt-3/</loc>
-        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>/docs/eigenes/unterabschnitt-4/</loc>
-        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
