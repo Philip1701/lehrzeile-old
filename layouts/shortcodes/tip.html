@@ -1,0 +1,10 @@
+<details class="hint">
+  <summary>Tipp:</summary>
+  {{ if .Get "numbered" | eq "true" }}
+  <ol type="1">
+    {{ .Inner | strings.TrimSpace | .Page.RenderString }}
+  </ol>
+  {{ else }}
+  <p>{{ .Inner | strings.TrimSpace | .Page.RenderString }}</p>
+  {{ end }}
+</details>

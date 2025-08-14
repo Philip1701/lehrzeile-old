@@ -1,0 +1,12 @@
+{{ $uebungscode := $.Get "uebungscode" }}
+{{ $seriesID := $.Get "seriesID" }}
+{{ $title := $.Get "title" }}
+{{ $bettermarkslogo := resources.Get "images/bettermarks_big.png" }}
+{{ $paper := $.Get "paper" }}
+{{ if $paper | eq "true" }}
+    <a href="https://apps.bettermarks.com/one/library/whiteboard-player/{{ $uebungscode }}" class="bettermarks-link" target="_blank" >
+{{ else }}
+    <a href="https://apps.bettermarks.com/one/series-player/?remoteLogging=true&reporting=false&seriesReview=false&seriesId={{ $seriesID }}" class="bettermarks-link" target="_blank" >
+{{ end }}
+        <code>{{ $uebungscode }}</code> <span>"{{ $title }}"</span>
+    </a>

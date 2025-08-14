@@ -1,0 +1,10 @@
+<details class="solution">
+  <summary>Lösungen</summary>
+  {{ if .Get "numbered" | eq "true" }}
+    {{ if .Get "style" | eq "enum-alph" }} <ol type="a"> {{else}} <ol type="1"> {{end}}
+      {{ .Inner | strings.TrimSpace | .Page.RenderString }}
+  </ol>
+  {{ else }}
+  <p>{{ .Inner | strings.TrimSpace | .Page.RenderString }}</p>
+  {{ end }}
+</details>

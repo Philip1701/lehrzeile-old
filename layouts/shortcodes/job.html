@@ -1,0 +1,37 @@
+{{ if .Get "numbered" | eq "true" }}
+{{ .Page.Scratch.Add "count" 1 }}
+  <div class="callout callout-jobs d-flex flex-row mt-4 mb-4 pt-4 pe-4 pb-2 ps-3">
+    <div class="callout-content">
+      <div class="callout-title">
+        <p>{{ .Get "name" | default "Aufgabe" }}<span class="jobs-counter">{{ .Page.Scratch.Get "count" }}</span>{{ if .Get "title" }}<span class="jobs-title"> ({{ if .Get "title" | eq "bettermarks" }}<img src="/images/bettermarks_big.png" />{{else}}{{ .Get "title" }}{{ end }})</span>{{ end }}</p>
+      </div>
+{{end}}
+{{ if .Get "numbered" | eq "false" }}
+  <div class="callout callout-jobs d-flex flex-row mt-4 mb-4 pt-4 pe-4 pb-2 ps-3">
+    <div class="callout-content">
+      <div class="callout-title">
+        <p>{{ .Get "name" | default "Aufgabe" }}{{ if .Get "title" }}{{ end }}:</p>
+      </div>
+{{end}}
+      <div class="callout-body">
+        {{ if .Get "columns" | eq "3" }} <div class="three-columns"> {{ else }} {{ if .Get "columns" | eq "2" }} <div class="two-columns"> {{ else }} <div class="one-column"> {{ end }} {{ end }}
+          {{ if .Get "entry" }}
+            <p class="entry-text">{{ .Get "entry" }}</p>
+          {{ end }}
+          {{ if .Get "style" | eq "enum-alph" }} <ol type="a"> {{end}}
+          {{ if .Get "style" | eq "enum-arabic" }} <ol type="1"> {{end}}
+          {{ if .Get "title" | eq "bettermarks" }}
+            {{ .Inner }}
+          {{ else }}
+            {{ .Inner | strings.TrimSpace | .Page.RenderString }}
+          {{ end }}
+          {{ if .Get "style" | eq "enum-alph" }}
+            </ol>
+          {{ else if .Get "style" | eq "enum-arabic" }}
+            </ol>
+          {{ end }}
+        </div>
+        {{ if .Get "title" | eq "bettermarks"}}<span class="job-notice">Hinweis: Damit die Links funktionieren, musst du bei bettermarks eingeloggt sein.</span>{{end}}
+      </div>
+    </div>
+  </div>

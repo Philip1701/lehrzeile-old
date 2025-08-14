@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>http://localhost:1313/tested/hugo/</loc>
+      <lastmod>2025-03-06T22:10:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/tested/markdown-example/</loc>
+      <lastmod>2025-03-06T22:10:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/tested/beispielseite/</loc>
+      <lastmod>2025-03-07T10:12:03+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/tested/hilfreiche-links/</loc>
+      <lastmod>2025-03-07T10:12:03+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>http://localhost:1313/tested/beispielseite/beispielseite/</loc>
+        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://localhost:1313/tested/hilfreiche-links/hilfreiche-links/</loc>
+        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      </urlset>

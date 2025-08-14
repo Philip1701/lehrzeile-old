@@ -1,0 +1,16 @@
+<div class="callout callout-note d-flex flex-row mt-4 mb-4 pt-4 pe-4 pb-2 ps-3">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="outline/info-circle svg-inline callout-icon me-2 mb-3" id="svg-info-circle" role="img">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0"></path>
+    <path d="M12 9h.01"></path>
+    <path d="M11 12h1v4h1"></path>
+  </svg>
+  <div class="callout-content">
+    <div class="callout-title">
+        <p>{{ .Get "title" | default "Hinweis:" }}</p>
+      </div>
+    <div class="callout-body">
+      <p>{{ .Inner | strings.TrimSpace | .Page.RenderString }}</p>
+    </div>
+  </div>
+</div>

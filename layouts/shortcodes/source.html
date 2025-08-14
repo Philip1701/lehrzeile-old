@@ -1,0 +1,8 @@
+{{ $src := $.Get "src" }}
+{{ $text := $.Get "text" }}
+{{ $lastcall := $.Get "lastcall" }}
+{{ if .Get "type" | eq "image" }}
+  <p class="source">Bildquelle: <a href="{{ $src }}">{{ $text }}</a> (letzter Aufruf: {{ $lastcall }})</p>
+{{ else }}
+  <p class="source">Quelle: <a href="{{ $src }}">{{ $text }}</a> (letzter Aufruf: {{ $lastcall }})</p>
+{{ end }}
