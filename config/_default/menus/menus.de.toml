@@ -38,10 +38,10 @@
   url = "/blog/"
   weight = 30
 
-# [[sidebar_tested]]
-#   name = "Tested"
-#   pageRef = "/tested/"
-#   weight = 30
+[[sidebar_tested]]
+  name = "Blog"
+  pageRef = "/blog/"
+  weight = 10
 
 # [[social]]
 #   name = "X"
