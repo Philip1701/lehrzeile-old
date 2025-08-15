@@ -2,12 +2,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>/hbf1/resources/</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
       <loc>/hbf1/0-organisatorisches/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
