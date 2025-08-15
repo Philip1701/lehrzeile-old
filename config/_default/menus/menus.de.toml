@@ -62,15 +62,15 @@
 #  post = "v0.1.0"
 #  weight = 30
 
-# [[sidebar_docs]]
-#   name = "Guides"
-#   pageRef = "/docs/Abschnitt"
-#   weight = 10
+[[sidebar_docs]]
+  name = "HBF1"
+  pageRef = "/HBF1/0-Organisatorisches/Themenübersicht"
+  weight = 10
 
-# [[sidebar_test]]
-#   name = "Menü"
-#   pageRef = "/test/"
-#   weight = 10
+[[sidebar_test]]
+  name = "Blog"
+  pageRef = "/blog/"
+  weight = 20
 
 # [[sidebar_docs]]
 #   name = "Reference"
