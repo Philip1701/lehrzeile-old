@@ -42,6 +42,13 @@
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
+    
+    <url>
+      <loc>/hbf1/eigenes/</loc>
+      <lastmod>2025-03-06T22:10:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
     <url>
         <loc>/hbf1/0-organisatorisches/themen%C3%BCbersicht/</loc>
         <changefreq>monthly</changefreq>
@@ -149,6 +156,30 @@
       </url>
       <url>
         <loc>/hbf1/5-steckbriefaufgaben/lo%CC%88sen-von-steckbriefaufgaben/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>/hbf1/eigenes/beispielseite/</loc>
+        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>/hbf1/eigenes/hilfreiche-links/</loc>
+        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>/hbf1/eigenes/hugo-framework/</loc>
+        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>/hbf1/eigenes/markdown-example/</loc>
+        <lastmod>2025-03-06T22:10:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
