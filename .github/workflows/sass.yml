@@ -1,2 +1,0 @@
-- name: Install Dart Sass
-  run: sudo snap install dart-sass
