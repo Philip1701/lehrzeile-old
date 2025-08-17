@@ -21,7 +21,7 @@ mainSections = ["docs","hbf1"]
 
   ## Button
   navBarButton = false # false (default) or true
-  navBarButtonUrl = "/docs/prologue/introduction/"
+  navBarButtonUrl = "/hbf1/0-organisatorisches/themenübersicht/"
   navBarButtonText = "Get started"
 
   # FlexSearch
@@ -136,3 +136,4 @@ mainSections = ["docs","hbf1"]
     newsArticle = [] # NewsArticle sections
     blogPosting = ["blog"] # BlogPosting sections
     product = [] # Product sections
+
